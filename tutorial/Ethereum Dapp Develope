@@ -1,0 +1,11 @@
+# How to develope a Ethereum DApp
+
+Before we develop a ture DApp on Ethereum. Let us see what we need to know first.
+
+So, here is a list about you must know of Ethereum ecosystem.
+- How to write Ethereum smart contract (Solidity)?
+- How to call contract?
+  - What SDK can I use?
+  - How can I check the contract calling condition (Blockchain browser).
+- How can I operate with the original token, NF or NFT?
+- Are there any common wallet I can use?
